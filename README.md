@@ -1,13 +1,8 @@
 # Starter Web project - localgit
 
-## How to contribute
 
-## Samo za promena
-
-## Tuka e samo za local
-
-## ZA IGOR bratot
-This repository is for showing how Git and GitHub work
+## za kade e
+ this is going to be in staging area
 
 ## Purpose
 
